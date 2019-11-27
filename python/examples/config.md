@@ -11,7 +11,7 @@ variety of examples to be evaluated. __This configuration should be modified
 before use in a production device__. The following is a list of items set in
 order for the configuration to be easier to use for an experimenter.
 
-ATECC508A Configuraiton
+ATECC508A Configuration
 * Slot 4 & 6 allow unencrypted writes which means the io protection key can
 be rewritten without prior knowledge of a secret.
 
